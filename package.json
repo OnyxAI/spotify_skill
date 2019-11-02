@@ -1,0 +1,14 @@
+{
+  "name": "Spotify",
+  "raw": "spotify_skill",
+  "version": "1.0.0",
+  "description":"Play Spotify on Onyx",
+  "packages":[],
+  "dependencies": [],
+  "author":"Cassim Khouani",
+  "license": "Creative Commons 3.0 France",
+  "navbar":"True",
+  "data":"True",
+  "index":"spotify.index",
+  "config":"spotify.config"
+}
